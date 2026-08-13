@@ -1,5 +1,5 @@
 
-CREATE DATABASE livraria_icaro_m2;
+CREATE DATABASE livraria_gomes_m4;
 USE livraria_icaro_m2;
 
 CREATE TABLE livros (
